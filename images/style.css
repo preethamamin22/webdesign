@@ -1,0 +1,18 @@
+header ul{
+    margin: 0;
+    padding: 0;
+}
+header li{
+    float: left;
+    display: inline;
+    padding: 20px;
+}
+header #branding{
+    float:left;
+}
+header #branding h1{
+margin: 0;
+}
+header nav{
+    float: right;
+}
